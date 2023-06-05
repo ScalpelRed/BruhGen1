@@ -1,0 +1,12 @@
+{
+  "generator.bruhgen1.parabola": "Parabola",
+  "generator.bruhgen1.radialsine": "Radial sine",
+  "generator.bruhgen1.sine": "Sine",
+  "generator.bruhgen1.chunkgrid": "Chunkgrid",
+  "generator.bruhgen1.cubegrid": "Cubegrid",
+  "generator.bruhgen1.heightbypolardata": "Height by polar data",
+  "generator.bruhgen1.sections": "Sections",
+  "generator.bruhgen1.roundchunks": "Round chunks",
+  "generator.bruhgen1.averageblock": "Average block",
+  "generator.bruhgen1.scaledy": "Scaled Y"
+}

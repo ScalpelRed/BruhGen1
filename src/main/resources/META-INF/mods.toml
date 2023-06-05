@@ -1,0 +1,35 @@
+modLoader="javafml"
+loaderVersion="[40,)"
+license="All Rights Reserved"
+
+[[mods]]
+modId="bruhgen1"
+version="${file.jarVersion}"
+displayName="BruhGen1"
+description='''
+Generates weird worlds.
+Part 1.
+
+> Parabola
+> Sine
+> Radial sine
+> Chunkgrid
+> Cubegrid
+> Height by polar data
+> Sections
+> Round chunks
+> Average block
+> Scaled Y
+'''
+[[dependencies.bruhgen1]]
+   modId="forge"
+   mandatory=true
+   versionRange="[40,)"
+   ordering="NONE"
+   side="BOTH"
+[[dependencies.bruhgen1]]
+   modId="minecraft"
+   mandatory=true
+   versionRange="[1.18.2,1.19)"
+   ordering="NONE"
+   side="BOTH"

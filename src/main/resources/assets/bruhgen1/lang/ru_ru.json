@@ -1,0 +1,12 @@
+{
+  "generator.bruhgen1.parabola": "Парабола",
+  "generator.bruhgen1.radialsine": "Радиальная синусоида",
+  "generator.bruhgen1.sine": "Синусоида",
+  "generator.bruhgen1.chunkgrid": "Сетка чанков",
+  "generator.bruhgen1.cubegrid": "Сетка кубов",
+  "generator.bruhgen1.heightbypolardata": "Высота по полярным данным",
+  "generator.bruhgen1.sections": "Секции",
+  "generator.bruhgen1.roundchunks": "Круглые чанки",
+  "generator.bruhgen1.averageblock": "Усреднение блока",
+  "generator.bruhgen1.scaledy": "Масштабированный Y"
+}
